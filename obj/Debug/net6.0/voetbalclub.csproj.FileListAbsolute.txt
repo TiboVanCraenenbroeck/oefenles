@@ -1,0 +1,15 @@
+C:\Users\Tibovc\Desktop\sollicitatie\les\voetbalclub\bin\Debug\net6.0\voetbalclub.exe
+C:\Users\Tibovc\Desktop\sollicitatie\les\voetbalclub\bin\Debug\net6.0\voetbalclub.deps.json
+C:\Users\Tibovc\Desktop\sollicitatie\les\voetbalclub\bin\Debug\net6.0\voetbalclub.runtimeconfig.json
+C:\Users\Tibovc\Desktop\sollicitatie\les\voetbalclub\bin\Debug\net6.0\voetbalclub.dll
+C:\Users\Tibovc\Desktop\sollicitatie\les\voetbalclub\bin\Debug\net6.0\ref\voetbalclub.dll
+C:\Users\Tibovc\Desktop\sollicitatie\les\voetbalclub\bin\Debug\net6.0\voetbalclub.pdb
+C:\Users\Tibovc\Desktop\sollicitatie\les\voetbalclub\obj\Debug\net6.0\voetbalclub.csproj.AssemblyReference.cache
+C:\Users\Tibovc\Desktop\sollicitatie\les\voetbalclub\obj\Debug\net6.0\voetbalclub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tibovc\Desktop\sollicitatie\les\voetbalclub\obj\Debug\net6.0\voetbalclub.AssemblyInfoInputs.cache
+C:\Users\Tibovc\Desktop\sollicitatie\les\voetbalclub\obj\Debug\net6.0\voetbalclub.AssemblyInfo.cs
+C:\Users\Tibovc\Desktop\sollicitatie\les\voetbalclub\obj\Debug\net6.0\voetbalclub.csproj.CoreCompileInputs.cache
+C:\Users\Tibovc\Desktop\sollicitatie\les\voetbalclub\obj\Debug\net6.0\voetbalclub.dll
+C:\Users\Tibovc\Desktop\sollicitatie\les\voetbalclub\obj\Debug\net6.0\ref\voetbalclub.dll
+C:\Users\Tibovc\Desktop\sollicitatie\les\voetbalclub\obj\Debug\net6.0\voetbalclub.pdb
+C:\Users\Tibovc\Desktop\sollicitatie\les\voetbalclub\obj\Debug\net6.0\voetbalclub.genruntimeconfig.cache
